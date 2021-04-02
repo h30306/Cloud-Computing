@@ -12,4 +12,4 @@ I think cloud computing is a trend for us in the future. When the amount of data
 
 ## Homework 2
 * **What do you think of Cloud Computing?**<br>
-* [![./HW2.png](https://www.youtube.com/watch?v=WAc8utD7mlU)
+* [![HW2](./HW2.png)](https://www.youtube.com/watch?v=WAc8utD7mlU)
