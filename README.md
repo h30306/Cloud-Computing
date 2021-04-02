@@ -11,5 +11,6 @@ I think cloud computing is a trend for us in the future. When the amount of data
 而我認為雲端運算對我們來說是未來使用的趨勢，當資料量越來越大，且資料越來越值錢時，存在自己的硬體已經遠遠不夠用，甚至儲存不夠安全穩定，雲端運算的服務讓我們更輕鬆地在世界各地取得這些資料以及運算資源，對資料科學的領域可以說是一大福音，而我目前最常用到的就是IAAS的服務，不論是EC2、GCP或是自己架設的Server，都是幫助我在處理專案時建置環境的利器，未來我也會嘗試使用AWS的PAAS服務，使用更多AWS提供的系統，提升工作的效率。
 
 ## Homework 2
-* **Build a Website using Amazon EC2 with LAMPBuild a Website using Amazon EC2 with LAMP. &#8595; press the picture below to access the video**<br>
+* **Build a Website using Amazon EC2 with LAMPBuild a Website using Amazon EC2 with LAMP.**<br>
+* &#8595; press the picture below to access the video
 * [![HW2](./HW2.png)](https://www.youtube.com/watch?v=WAc8utD7mlU)
