@@ -18,5 +18,5 @@ I think cloud computing is a trend for us in the future. When the amount of data
 ## Homework 3
 * **HW3-Build a Website using Amazon S3(Versioning) and AWS Amplify.**<br>
 * &#8595; press the picture to access the video
-* [![HW2](./HW3.png)](https://youtu.be/39alVCMjAp8)
+* [![HW3](./HW3.png)](https://youtu.be/39alVCMjAp8)
 
