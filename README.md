@@ -20,3 +20,8 @@ I think cloud computing is a trend for us in the future. When the amount of data
 * &#8595; press the picture to access the video
 * [![HW3](./HW3.png)](https://youtu.be/39alVCMjAp8)
 
+## Homework 4
+* **HW3-Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda.**<br>
+* &#8595; press the picture to access the video
+* [![HW4](./HW4.png)](https://youtu.be/2S4fxHaFrXE)
+
