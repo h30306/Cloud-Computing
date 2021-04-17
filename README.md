@@ -13,7 +13,7 @@ I think cloud computing is a trend for us in the future. When the amount of data
 ## Homework 2
 * **Build a Website using Amazon EC2 with LAMPBuild a Website using Amazon EC2 with LAMP.**<br>
 * &#8595; press the picture to access the video
-* [![HW2](./HW2.png width="200" height="400")](https://www.youtube.com/watch?v=WAc8utD7mlU)
+* [![HW2](./HW2.png)](https://www.youtube.com/watch?v=WAc8utD7mlU)
 
 ## Homework 3
 * **HW3-Build a Website using Amazon S3(Versioning) and AWS Amplify.**<br>
