@@ -26,6 +26,11 @@ I think cloud computing is a trend for us in the future. When the amount of data
 * &#8595; press the picture to access the video
 * [![HW4](./HW4.png)](https://youtu.be/EZShtVhFak0)
 
+### Homework 5
+* **HW5-Create a Database using Amazon RDS or Amazon DynamoDB.**<br>
+* &#8595; press the picture to access the video
+* [![HW5](./HW5.png)](https://youtu.be/FNsd_Otm04U)
+
 ## Final Project
 
 ### 4/19 Three-minute interim results video
