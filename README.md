@@ -31,6 +31,11 @@ I think cloud computing is a trend for us in the future. When the amount of data
 * &#8595; press the picture to access the video
 * [![HW5](./HW5.png)](https://youtu.be/7zUFsUAd864)
 
+### Homework 6
+* **HW6-Create a Docker Container.**<br>
+* &#8595; press the picture to access the video
+* [![HW6](./HW6.png)](https://youtu.be/JmNLP62i8T8)
+
 ## Final Project
 
 ### 4/19 Three-minute interim results video
