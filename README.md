@@ -47,4 +47,7 @@ I think cloud computing is a trend for us in the future. When the amount of data
 * &#8595; press the picture to access the video
 * [![Project Review](./threeminute.png)](https://youtu.be/V1nfvdqnSJU)
 
+### 6/15 Fifteen-minute final performance video
+* &#8595; press the picture to access the video
+* [![Project Review](./threeminute.png)](https://youtu.be/J38fAyPl9vs)
 
